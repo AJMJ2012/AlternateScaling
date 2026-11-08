@@ -1,0 +1,1 @@
+Adds an alternate health and damage scaling system with options to make enemies more aggressive

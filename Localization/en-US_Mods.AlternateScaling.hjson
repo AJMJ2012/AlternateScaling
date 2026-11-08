@@ -1,0 +1,83 @@
+Configs: {
+	ServerConfig: {
+		DisplayName: Server Config
+
+		Headers: {
+			Main: Main
+			Damage: Damage
+			Enemy: Enemy
+			PlayerHelathMana: Player Helath Mana
+			Projectile: Projectile
+		}
+
+		Enabled: {
+			Label: Enabled
+			Tooltip: ""
+		}
+
+		DamageRework: {
+			Label: Damage Rework
+			Tooltip: ""
+		}
+
+		DefenseRework: {
+			Label: Defense Rework
+			Tooltip: ""
+		}
+
+		GlobalDamageReworkVar: {
+			Label: Global Damage Rework Var
+			Tooltip: Unfortunately it's harder to separate player, enemy, and world damages so it's all combined.
+		}
+
+		AggressiveEnemies: {
+			Label: Aggressive Enemies
+			Tooltip: Applies even when mod is disabled
+		}
+
+		AggressiveBosses: {
+			Label: Aggressive Bosses
+			Tooltip: Applies even when mod is disabled
+		}
+
+		EnemyHealthRework: {
+			Label: Enemy Health Rework
+			Tooltip: ""
+		}
+
+		EnemyHealthReworkVar: {
+			Label: Enemy Health Rework Var
+			Tooltip: ""
+		}
+
+		EnemyBossHealthReworkVar: {
+			Label: Enemy Boss Health Rework Var
+			Tooltip: ""
+		}
+
+		DisableVanillaDifficultyEnemyScaling: {
+			Label: Disable Vanilla Difficulty Enemy Scaling
+			Tooltip: Only applies even when mod is enabled
+		}
+
+		PlayerHealthMultiplier: {
+			Label: Player Health Multiplier
+			Tooltip: Applies even when mod is disabled
+		}
+
+		PlayerManaMultiplier: {
+			Label: Player Mana Multiplier
+			Tooltip: Applies even when mod is disabled
+		}
+
+		ForceProjectileTileCollide: {
+			Label: Force Projectile Tile Collide
+			Tooltip: Buggy
+		}
+
+		ProjectileTileCollideExtraCheck: {
+			Label: Projectile Tile Collide Extra Check
+			Tooltip: ""
+		}
+	}
+}
